@@ -19,7 +19,7 @@ public class Exercicio4 {
 		for (int i = 0; i < vetor.length; i++) { // comando para mostrar todas as variáveis do vetor
 
 			if (vetor[i] % 2 == 0) { // % = MMC, conhecido como módulo em java.
-				par = par + 1;
+				par = par + 1; //Sempre que um número for par, irá somar +1 ao contador
 			}
 			
 		}

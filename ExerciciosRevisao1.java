@@ -1,6 +1,6 @@
 package revisao;
 
-public class exerciciosRevisao1 {
+public class ExerciciosRevisao1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -21,8 +21,8 @@ public class Exercicio2 {
 			
 		}
 		
-		int somatotal = vetor[0] + vetor[1] + vetor[2] + vetor[3] + vetor[4] + vetor[5] + vetor[6] + vetor[7] + vetor[8] + vetor[9];
-		System.out.println("\nSoma total: " + somatotal); // "/n" pula linha
+		int somaTotal = vetor[0] + vetor[1] + vetor[2] + vetor[3] + vetor[4] + vetor[5] + vetor[6] + vetor[7] + vetor[8] + vetor[9];
+		System.out.println("\nSoma total: " + somaTotal); // "/n" pula linha
 		
 	}
 }

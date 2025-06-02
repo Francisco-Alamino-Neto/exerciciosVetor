@@ -1,6 +1,6 @@
 package vetores;
 
-public class ex1Invertido {
+public class Ex1Invertido {
 
 	public static void main(String[] args) {
 		
